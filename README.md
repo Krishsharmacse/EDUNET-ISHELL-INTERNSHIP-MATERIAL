@@ -12,6 +12,8 @@ Data Preparation
 
 Data Exploration
 
+Data Visualisation
+
 Model Building and Prediction
 
 Web App for Deployment Streamlit Use
