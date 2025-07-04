@@ -1,4 +1,6 @@
-numpy==1.24.4 
+setuptools
+wheel
+numpy==1.24.5
 pandas==1.5.3 
 seaborn==0.12.2 
 streamlit==1.28.2 
